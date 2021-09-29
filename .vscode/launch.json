@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch for_eg",
+            "request": "launch",
+            "mainClass": "for_eg",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2_1",
+            "request": "launch",
+            "mainClass": "day2_1",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2_2",
+            "request": "launch",
+            "mainClass": "day2_2",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2_3",
+            "request": "launch",
+            "mainClass": "day2_3",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch day2_4",
+            "request": "launch",
+            "mainClass": "day2_4",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch day3_1",
+            "request": "launch",
+            "mainClass": "day3_1",
+            "projectName": "Lab_f64474bf"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloWorld",
+            "request": "launch",
+            "mainClass": "helloWorld",
+            "projectName": "Lab_f64474bf"
+        }
+    ]
+}
